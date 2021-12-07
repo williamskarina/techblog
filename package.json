@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/williamskarina/techblog/issues"
   },
-  "homepage": "https://github.com/kpehl/mvc-tech-blog#readme",
+  "homepage": "https://github.com/williamskarina/techblog/blob/master/README.md",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
